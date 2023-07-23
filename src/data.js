@@ -1,35 +1,51 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "EMOCIA",
+    subtitle: "Swift, ARKit, CoreML",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "A machine-learning backed iOS app that integrates augmented reality to help children on the autistic spectrum learn and recognize other's emotions",
+    image: "https://img.youtube.com/vi/4jyXejf1tQU/hqdefault.jpg",
+    link: "https://youtu.be/4jyXejf1tQU",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "CONTENTO",
+    subtitle: "Swift and CoreML",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "An iOS app to make the lives of senior citizens easier, safer, and better as a whole during quarantine.",
+    image: "https://img.youtube.com/vi/Bg-c2IxBM10/hqdefault.jpg",
+    link: "https://youtu.be/Bg-c2IxBM10",
   },
   {
-    title: "DevChat",
+    title: "CLOUDFREE",
     subtitle: "React and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "An augmented-reality 3D iOS game to help people manage anxiety by creating an immersive virtual environment for them to escape to.",
+    image: "https://img.youtube.com/vi/C7F6eO4Nn1M/hqdefault.jpg",
+    link: "https://youtu.be/C7F6eO4Nn1M",
   },
   {
-    title: "Epic Todo App",
+    title: "SKINAVA",
     subtitle: "React Hooks",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "An ML-backed application utilizing augmented reality to identify skin conditions.",
+    image: "https://img.youtube.com/vi/VgxibDeewZY/hqdefault.jpg",
+    link: "https://devpost.com/software/skinava",
+  },
+  {
+    title: "Foodsio",
+    subtitle: "React Hooks",
+    description:
+      "An iOS app to help save food wasteage",
+    image: "./foodsio.jpg",
+    link: "https://devpost.com/software/foodsio",
+  },
+  {
+    title: "Helping Hand",
+    subtitle: "React Hooks",
+    description:
+      "Aimed at dysgraphic kids, an iOS App that motivates and teaches how to trace letters/numbers with a finger",
+    image: "https://img.youtube.com/vi/jLHr7BTfOWU/hqdefault.jpg",
+    link: "https://youtu.be/jLHr7BTfOWU",
   },
 ];
 
