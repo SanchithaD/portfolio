@@ -269,7 +269,7 @@ export const images = [
 export const hobbies = [
   "Carnatic Vocal music (Learning carnatic vocal music for the past 10 years)",
   "Taekwondo Black Stripe (Testing for Black belt, learning for the past 8 years)",
-  "Bhrathanatyam (Learnt and practiced Indian classical dance for 6 years)",
+  "Bhrathanatyam (Learned and practiced Indian classical dance for 6 years)",
   "Music Analysis",
   "Reading",
   "Running & Strength training (Participated in cross country and track & field)"
