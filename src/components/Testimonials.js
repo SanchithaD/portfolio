@@ -20,7 +20,7 @@ export default function Testimonials() {
                   <img
                     alt="testimonial"
                     src={testimonial.image}
-                    className="w-12 rounded-full flex-shrink-0 object-cover object-center"
+                    className="w-50 rounded-full flex-shrink-0 object-cover object-center"
                   />
                   <span className="flex-grow flex flex-col pl-4">
                     <span className="title-font font-medium text-white">
