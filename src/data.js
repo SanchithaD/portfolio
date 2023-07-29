@@ -108,7 +108,7 @@ export const MLprojects = [
     description:
       "Utilizing deep reinforcement learning techniques to improve the accuracy of digital holography",
     image: "./sciencefair23.png",
-    link: "https://youtu.be/Bg-c2IxBM10",
+    link: "./sciencefair23.png",
   }
 ];
 
@@ -192,7 +192,7 @@ export const work = [
     subtitle: "Lynbrook High School",
     description:
       "Tutor high school kids for English, Math, Physics and Computer Science",
-    image: "./lynbrook.png",
+    image: "./Lynbrook.png",
     link: "https://lhs.fuhsd.org/guidance-student-support/sttar-tutoring",
     date: "2019 - Present"
   },
