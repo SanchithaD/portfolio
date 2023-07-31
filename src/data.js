@@ -73,12 +73,14 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "Swift",
-  "SwiftUI",
-  "Java",
-  "C++",
-  "GraphQL",
-  "Material UI",
+  "Swift, SwiftUI, XCode",
+  "Java, C, C++, Python",
+  "UIKit, ARKit",
+  "CoreML, Tensorflow, Machine Learning",
+  "Firebase",
+  "Matlab",
+  "JavaScript, React, VSCode",
+  "Event Organizing"
 ];
 
 
