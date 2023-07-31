@@ -122,12 +122,21 @@ export const CircuitProjects = [
     link: "https://youtu.be/tpUzud-5ycc",
   },
   {
-    title: "Muscle-Powered Prosthetic Arm",
+    title: "Muscle-Powered Prosthetic Arm Showcase",
     subtitle: "",
     description:
       "This is a 3D printed prosthetic hand muscle powered with arduino and servo motor that can open and close.,",
-    image: "https://img.youtube.com/vi/Bg-c2IxBM10/hqdefault.jpg",
-    link: "https://youtu.be/Bg-c2IxBM10",
+    image: "https://img.youtube.com/vi/tAT2gFmcftM/hqdefault.jpg",
+    link: "https://www.youtube.com/watch?v=tAT2gFmcftM",
+  },
+
+  {
+    title: "Muscle-Powered Prosthetic Arm Demo",
+    subtitle: "",
+    description:
+      "This is a 3D printed prosthetic hand muscle powered with arduino and servo motor that can open and close.,",
+    image: "https://img.youtube.com/vi/OqHHCSEdBmU/hqdefault.jpg",
+    link: "https://www.youtube.com/watch?v=OqHHCSEdBmU",
   },
 
   {
