@@ -22,7 +22,7 @@ export default function About() {
                Rising senior @ Lynbrook High School
             </h2>
             <p className="mb-8 leading-relaxed text-gray-300">
-            I am deeply passionate about software engineering & computer science. I began developing iOS apps in eighth grade. 
+            I am deeply passionate about engineering & computer science. I began developing iOS apps in eighth grade. 
             I taught myself Machine Learning by completing machine learning courses and started creating my own machine learning algorithms and models to compliment the iOS apps I've been developing. 
             </p>
             <div className="flex justify-center">
