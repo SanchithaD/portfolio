@@ -195,7 +195,7 @@ export const work = [
    + " I am also part of  utting together the grams for different seasons, marketing and selling them.",
     image: "./great_grams.png",
     link: "https://www.linkedin.com/company/supernova-lynbrook/",
-    date: "2019 - Present"
+    date: "2022 - Present"
   },
 
   {
@@ -205,7 +205,7 @@ export const work = [
       "Tutor high school kids for English, Math, Physics and Computer Science",
     image: "./Lynbrook.png",
     link: "https://lhs.fuhsd.org/guidance-student-support/sttar-tutoring",
-    date: "2019 - Present"
+    date: "2022 - Present"
   },
 
   {
