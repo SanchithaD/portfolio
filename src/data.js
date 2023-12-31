@@ -97,7 +97,7 @@ export const activities = [
 
 export const MLprojects = [
   {
-    title: "Synopsis 2022 Science Fair project",
+    title: "Synopsys 2022 Science Fair project",
     subtitle: "Swift, ARKit, CoreML",
     description:
       "Integrated a Python deep reinforcement learning model using Tensorflow for subgrid-scale modelling in large eddy simulations with OpenFoam in C",
