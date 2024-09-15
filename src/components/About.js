@@ -19,7 +19,7 @@ export default function About() {
               Hi, I'm Sanchitha!
             </h1>
             <h2 className="title-font sm:text-2xl text-l mb-4 font-medium text-white">
-               Senior @ Lynbrook High School
+               Computer Science Student @ University of Maryland, College Park
             </h2>
             <p className="mb-8 leading-relaxed text-gray-300">
             I am deeply passionate about engineering & computer science. I began developing iOS apps in eighth grade. 
